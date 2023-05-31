@@ -1,0 +1,1 @@
+![](bcrypto-logo.png)
